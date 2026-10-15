@@ -1,0 +1,34 @@
+Basic Programming Paradigms 
+
+Moodle section
+  - WiSe 2026/27 07-102-1103.VÜ01
+  - PW: preprocessor
+  - Q and A answer forum (personal conversations email)
+
+Exams: 
+  - single choice test 
+  - 40 Questions
+  - sample test midterm (watch moodle)
+  - 60% to pass
+  - on fail autimatically registered for next exam, one semster later. 
+  - max 2 fails (after reattend the module)
+
+Lecture:
+  - C++
+  - pull from github Basic Programming Paradigms (Book in repo)
+ 
+
+
+
+Setting all bits to 0:
+1. Define a pointer and let it point to the lowest bit. 
+2. Change the bit, to wich the pointer points to, to 0
+3. if the pointer pooints to the highest bit stop the program
+4. let the pointer point to the next higher rank and continue with step 2
+ 
+decreasing by 1:
+1. Define a pointer and let it point to the lowest bit
+2. if the bit the pointer points to is 1 change it to 0 and stop the program
+3. Change the bit, to wich the pointer points, to 1 => (the flipped bit will allways have been a 0)
+4. if the pointer already points to the highest bit, issue an error message and stop the program.
+5. Let the pointer point to the next higher rank and continue with step 2
