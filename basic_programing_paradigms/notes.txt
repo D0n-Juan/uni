@@ -32,3 +32,5 @@ decreasing by 1:
 3. Change the bit, to wich the pointer points, to 1 => (the flipped bit will allways have been a 0)
 4. if the pointer already points to the highest bit, issue an error message and stop the program.
 5. Let the pointer point to the next higher rank and continue with step 2
+
+(Test for incorporating GitHub)
