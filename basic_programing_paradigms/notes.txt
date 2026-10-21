@@ -33,4 +33,15 @@ decreasing by 1:
 4. if the pointer already points to the highest bit, issue an error message and stop the program.
 5. Let the pointer point to the next higher rank and continue with step 2
 
-(Test for incorporating GitHub)
+
+Simulation:
+  - doesnt alter reality, only simluates with (sometimes perfect) parameters
+
+Emulation:
+  - alters reality, real world changes are measurable 
+
+Terminal Commands:
+- gvim          => nvim 
+- g++           => compile 
+- ./name.out    => to execute the result 
+

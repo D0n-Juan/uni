@@ -1,0 +1,6 @@
+Terminal Commands:
+- gvim          => nvim 
+- g++           => compile 
+- ./name.out    => execute the out
+- $             => something with variables 
+

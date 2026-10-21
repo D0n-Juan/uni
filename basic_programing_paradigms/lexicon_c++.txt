@@ -1,0 +1,13 @@
+
+
+C++ Operations:
+
+- cout            => Standart output (stdout) 
+- cin             => Standart input (stdin)
+- endl            => flushes to output 
+- << <<           => output into .out
+
+
+Types:
+-int
+-string
