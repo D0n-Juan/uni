@@ -5,9 +5,12 @@ C++ Operations:
 - cout            => Standart output (stdout) 
 - cin             => Standart input (stdin)
 - endl            => flushes to output 
+- flush;          => flushes to exit prematurely, (the a.out file?) 
 - << <<           => output into .out
+- cerr            => display error directly into terminal window 
 
 
 Types:
 -int
 -string
+- \ => escape character for newelines for example or "my name is \"peter\""
