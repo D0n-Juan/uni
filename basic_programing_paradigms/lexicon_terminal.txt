@@ -1,6 +1,19 @@
-Terminal Commands:
+Terminal/shell/bash Commands:
 - gvim          => nvim 
 - g++           => compile 
 - ./name.out    => execute the out
 - echo$?        => return the output of the main variable 
+- man xy        => help command 
+- mkdir         => create folder
+- touch         => create file 
+- rm            => remove/delete
+  -rmdir          => remove directory 
+  -rm -r          => remove recursive => delete non empty directory
 
+Movement:
+- ls            => list ordner
+- cd            => move to xy
+  - ..            => go back one directory 
+
+- pwd           => print working directory 
+- xdg-open      => mit default öffnen 
